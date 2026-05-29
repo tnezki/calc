@@ -1,0 +1,6 @@
+Unit 6 Phase 3 final validation
+HTML assessment files: 16
+Versions per file: 6
+Figures folder: populated with graph PNGs and coordinate_plane_placeholder.png
+MathJax audit: only $...$ and $$...$$ delimiters; no forbidden backslash delimiters; jsDelivr config appears before script tag.
+PASSED
