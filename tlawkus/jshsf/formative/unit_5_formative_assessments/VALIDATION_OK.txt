@@ -1,0 +1,8 @@
+Unit 5 formative assessments final validation OK.
+- 16 HTML assessment files present: u05-dok1-1.html through u05-dok4-4.html.
+- index.html present.
+- figures folder present and non-empty.
+- Graphs are PNG image files; no text-only graph descriptions are used in place of images.
+- MathJax validated: only $...$ inline and $$...$$ display delimiters are used.
+- Forbidden delimiters \(...\), \[...\], window.MathJax, and Cloudflare MathJax were not found.
+- jsDelivr MathJax config appears before the MathJax script tag in every HTML file.

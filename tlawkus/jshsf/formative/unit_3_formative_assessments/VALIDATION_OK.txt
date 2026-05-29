@@ -1,0 +1,9 @@
+Unit 3 formative assessments final package validation
+
+Folder: unit_3_formative_assessments
+HTML files: 16 formative assessment files plus index.html
+Naming: u03-dok1-1.html through u03-dok4-4.html
+Figures folder: included and non-empty
+Graph standard: PNG image files stored in figures/; no graph-description-only placeholders intended
+MathJax: dollar-sign inline/display math delimiter configuration used
+Status: READY

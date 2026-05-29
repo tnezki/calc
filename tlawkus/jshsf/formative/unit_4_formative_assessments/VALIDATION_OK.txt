@@ -1,0 +1,11 @@
+VALIDATION OK
+Unit 4 final formative assessment package verified.
+Assessment HTML files: 16
+Versions per assessment file: 6
+Figures folder: present and non-empty
+Coordinate-plane placeholder: present
+Graph/image references: all local files found
+MathJax delimiter check: PASSED; only $...$ inline and $$...$$ display delimiters are used.
+Forbidden delimiter check: PASSED; no \( ... \), \[ ... \], or matching closing delimiter usage found.
+MathJax config: exact required config appears before jsDelivr script tag in every HTML file.
+MathJax CDN: jsDelivr only.
